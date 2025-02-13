@@ -1,6 +1,5 @@
 header{
-    /* background: lightskyblue;   */
-    /* box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); */
+    background-color: white;  
     padding: 2rem 0;
     color: whitesmoke;
     position: sticky;
@@ -39,7 +38,7 @@ header{
 
 .container ul li a:hover,
 .container ul li a.active{
-  /* background-color: #ecf0f1; */
+   background-color: #ecf0f1; 
 }
 
 .icon{

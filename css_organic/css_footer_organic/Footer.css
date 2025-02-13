@@ -1,4 +1,10 @@
 footer{
+   padding: 2rem 0;
+   bottom: 0;
    place-items: center;
-   background-color: bisque;
+   background-color: rgb(255, 255, 255);
+  }
+
+  footer p{
+   color: red;
   }
