@@ -6,13 +6,13 @@ import {BrowserRouter, Routes} from 'react-router-dom'
 function App() {
 
   return (
-    <>
+    // <div className='check'>
     <BrowserRouter>
         <Header/>
         <Home/>
         <Footer/>
      </BrowserRouter>
-    </>
+    // </div>
   )
 }
 
