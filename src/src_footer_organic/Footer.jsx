@@ -11,10 +11,10 @@ function Footer() {
       <div className="footer-section">
         <h2 className="footer-title">About Agriculture</h2>
         <p>
-          The Agriculture, Farmers Welfare and Co-operation Department of Gujarat Govt. takes
-          care of agriculture and related matters in its charge like horticulture, soil
-          conservation, dairy development, animal husbandry, and formation of policies/schemes in
-          co-operative activities as well as implementation, monitoring, and supervision.
+          The Agriculture, Farmers ************************************* ******************
+          **********************************************************************************
+          **********************************************************************************
+         ***********************************************************************************
         </p>
       </div>
 
@@ -43,14 +43,14 @@ function Footer() {
         <h2 className="footer-title">Get In Touch</h2>
         <ul className="footer-contact">
           <li>
-            <FaMapMarkerAlt className="footer-icon" /> Block No. 5, First floor, New Sachivalaya,
-            Gandhinagar, Gujarat
+            <FaMapMarkerAlt className="footer-icon" /> Home Address
+            Vijaynagar,Sagara,Karnataka-577401
           </li>
           <li>
-            <FaPhoneAlt className="footer-icon" /> 079-23250802
+            <FaPhoneAlt className="footer-icon" /> 8277037756
           </li>
           <li>
-            <FaEnvelope className="footer-icon" /> secagri[at]gujarat[dot]gov[dot]in
+            <FaEnvelope className="footer-icon" /> nitish24sep@gmail.com
           </li>
         </ul>
         {/* Social Media Icons */}

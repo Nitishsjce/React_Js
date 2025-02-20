@@ -4,6 +4,7 @@
  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
  grid-auto-rows: auto;
  grid-gap: 1rem;
- /* background: linear-gradient(to bottom, #bdc3c7, white, #97bc62, #2c5f2d); */
+ padding-left: 20px; /* Adds space before the first row */
+ background: linear-gradient(to bottom, #bdc3c7, white, #97bc62, #2c5f2d,#97bc62); 
 }
 
